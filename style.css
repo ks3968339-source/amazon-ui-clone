@@ -18,7 +18,7 @@
     margin:1px;
 }
 .logo{
-    background-image: url("logo.png");
+    background-image: url("images/logo.png");
     background-size:cover; 
     height:50px;
     width:100%; 
@@ -147,7 +147,7 @@ font-weight:700;
 }
 /** hero-section**/
 .hero-section{
-    background-image:url(heroimg.jpg);
+    background-image:url("images/heroimg.jpg");
     height:350px;
     background-size:cover;
     display:flex;
